@@ -7,7 +7,9 @@
 
 ## About
 
-I created this 2D survival game in 2016 using C# and WinForms during my high school years, right around the early days of Windows 10. It was one of several projects I was working on at the time, each helping me build a solid foundation in programming, game mechanics, and UI design. Though simple, this project played a key role in shaping my skills and setting the stage for my future work in software development.
+I created this 2D survival game in 2016 using C# and WinForms during my high school years, right around the early days of Windows 10.
+
+It was one of several projects I was working on at the time, each helping me build a solid foundation in programming, game mechanics, and UI design. Though simple, this project played a key role in shaping my skills and setting the stage for my future work in software development.
 
 ## Features
 
