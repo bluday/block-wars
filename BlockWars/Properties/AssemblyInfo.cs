@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Block Wars")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Basic 2D survival game built with WinForms in my early coding days.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BluDay")]
 [assembly: AssemblyProduct("Block Wars")]
