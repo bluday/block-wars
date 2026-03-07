@@ -1,7 +1,6 @@
-<div>
-  <h3 align="center">Block Wars</h3>
-  <p align="center">A basic 2D survival game built using WinForms and C#/.NET</p>
-</div>
+# Block Wars
+
+A basic 2D survival game built using WinForms and C#.
 
 ![Preview 1](/preview-0.gif)
 
@@ -10,6 +9,9 @@
 I created this 2D survival game in 2016 using C# and WinForms during my high school years, right around the early days of Windows 10.
 
 It was one of several projects I was working on at the time, each helping me build a solid foundation in programming, game mechanics, and UI design. Though simple, this project played a key role in shaping my skills and setting the stage for my future work in software development.
+
+> [!NOTE]
+> The name was randomly chosen back then and I simply forgot to rename it after I finished the development.
 
 ## Features
 
